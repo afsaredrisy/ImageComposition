@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ImageCompositor</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Composition</string>
+    <string name="second_fragment_label">Result</string>
+    <string name="composite">Composite</string>
+    <string name="back">Back</string>
+    <string name="background_image">background image</string>
+    <string name="foreground_image">foreground image</string>
+    <string name="composited_image">composited image</string>
+</resources>
